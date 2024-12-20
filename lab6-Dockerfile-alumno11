@@ -1,0 +1,15 @@
+#primero vamos a importar python
+FROM python:3.11-slim
+#creamos el mismo directorio que en el ejercicio 3.3
+WORKDIR /app
+
+#movemos el noteboom de reduc-operation
+
+COPY reduc-operation-alumno11.ipynb /app
+
+#instalamos jupyter numba y numpy
+
+RUN pip install jupyter numpy numba
+
+#CMD establece la opcion o comando que se ejecutara por defecto en este dockerfile
+CMD ["ipython", "/app/reduc-operation-alumno11.ipynb", "1000000"]
