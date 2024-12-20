@@ -1,0 +1,27 @@
+[0m[0KREPOSITORY                                 TAG           IMAGE ID       CREATED[0K
+   SIZE[0K
+fracisco100iniesta/alumno11/lab6-docker    extra         2f43d5af8cd3   46 minutes ag[0Ko
+   1.12GB[0K
+francisco100iniesta/lab6-docker-alumno11   extra         1dcc2d78cd9f   46 minutes ag[0Ko
+   1.12GB[0K
+francisco100iniesta/alumno11/lab6-docker   extra         1dcc2d78cd9f   46 minutes ag[0Ko
+   1.12GB[0K
+alumno11/lab6-docker                       extra         87dcb74e39ff   46 minutes ag[0Ko
+   1.12GB[0K
+francisco100iniesta/lab6-docker-extra      v1            f8ea75f51f78   46 minutes ag[0Ko
+   1.12GB[0K
+alumno11/lab6-docker                       v1            f59ef739e643   46 minutes ag[0Ko
+   1.12GB[0K
+francisco100iniesta/lab6-docker            v1            78c402bd6f6f   3 hours ago[0K
+   1.12GB[0K
+python                                     3.11-slim     370c586a6ffc   2 weeks ago[0K
+   194MB[0K
+ubuntu                                     latest        80dd3c3b9c6c   4 weeks ago[0K
+   117MB[0K
+hello-world                                latest        5b3cc85e16e3   19 months ago[0K
+   24.4kB[0K
+docker/getting-started                     latest        d79336f4812b   24 months ago[0K
+   73.9MB[0K
+biocontainers/blast                        v2.2.31_cv2   238717ec6983   6 years ago[0K
+   2.99GB[0K
+[0K
